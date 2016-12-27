@@ -5,10 +5,10 @@
 本项目实现的是一个阿拉伯数字和罗马数字之间的互转，主要是因为该功能使用到了一门语言中的基所有基本操作。
 
 ## 打算使用的语言
-- R，实现中
-- Python，TODO
+- R,实现中
+- Python,TODO
 - Scala，TODO
 - Java,TODO
-- C/C++，TODO
+- C/C++,TODO
 - C#,TODO
 - Shell,TODO
